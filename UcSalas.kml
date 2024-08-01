@@ -1,78 +1,280 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Salas UC</name>
-	<gx:CascadingStyle kml:id="__managed_style_1A477E49C53244105494">
-		<Style>
-			<IconStyle>
-				<scale>0.75</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<gx:displayMode>card</gx:displayMode>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_27251AD7C53244105494">
-		<Style>
-			<IconStyle>
-				<scale>0.9</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<gx:displayMode>card</gx:displayMode>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0C9F34C7513244105494">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1A477E49C53244105494</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_27251AD7C53244105494</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Placemark id="0F72C285B83243665325">
-		<name>Sala Crisol Citeduc B</name>
-		<gx:fid>0x9662d1482410d499:0x787d18e0a541d9cd</gx:fid>
-		<styleUrl>#__managed_style_0C9F34C7513244105494</styleUrl>
-		<Point>
-			<coordinates>-70.61200932094029,-33.49913053462565,570.9733841847111</coordinates>
-		</Point>
-	</Placemark>
-	<Placemark id="00551FE35A3243F7E6F0">
-		<name>Sala Crisol Casa Central 2</name>
-		<gx:fid>0x9662c5d97b73ca13:0x552f42653fce7c12</gx:fid>
-		<styleUrl>#__managed_style_0C9F34C7513244105494</styleUrl>
-		<Point>
-			<coordinates>-70.63999536535243,-33.44090061881194,581.2601321532626</coordinates>
-		</Point>
-	</Placemark>
-</Document>
-</kml>
+<name>Proyeccion427.kml</name>
+<open>1</open>
+<description/>
+<Style id="estilo_nombre">
+<IconStyle>
+<scale>0.7</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+</IconStyle>
+<LabelStyle>
+  <scale>0.7</scale>
+  </LabelStyle>
+  </Style>
+<Style id="estilo_actual">
+<IconStyle>
+<color>8856ff00</color>
+<scale>0.7</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+</IconStyle>
+<LabelStyle>
+<color>8856ff00</color>
+  <scale>0.7</scale>
+  </LabelStyle>
+</Style>
+<Folder>
+<name>Sitios</name>
+<open>1</open>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5780,-33.4015</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5721,-33.4103</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5721,-33.4103</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6229,-33.4703</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6004,-33.4143</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6034,-33.4130</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5932,-33.4160</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2463,-34.9954</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6132,-33.4449</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6133,-33.4447</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5571,-33.4133</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5932,-33.4160</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0789,-36.8155</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6672,-33.1915</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6671,-33.1914</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5773,-33.5093</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5992,-33.4143</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5773,-33.5092</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5721,-33.4103</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6702,-33.5323</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5974,-33.4168</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0889,-36.7978</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6723,-33.3781</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6728,-33.3777</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.1492,-36.9625</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6723,-33.5827</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.8000,-34.9724</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.1915</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6728,-33.5769</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5571,-33.4133</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5932,-33.4160</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.1915</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6002,-33.4120</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6668,-33.1914</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5571,-33.4133</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5992,-33.4143</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.5836,-33.1181</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.5836,-33.1181</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.5836,-33.1181</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.5836,-33.1181</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5571,-33.4133</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.1415,-20.2325</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.8353,-34.3401</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5615,-33.4705</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.1417,-20.2325</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6227,-33.6213</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.1415,-20.2325</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5932,-33.4160</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6728,-33.5769</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7352,-32.7412</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5974,-33.4168</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7423,-33.3564</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.5354,-33.6350</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5299,-33.4563</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.0597,-29.9914</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5299,-33.4563</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6734,-33.5778</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.0287,-30.0047</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6226,-33.6213</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7254,-33.4019</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7254,-33.4019</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6155,-33.4256</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7254,-33.4019</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7376,-33.4354</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6227,-33.6213</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.6307,-33.0426</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.8353,-34.3401</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6226,-33.6213</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.4612,-32.5521</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-72.6281,-38.7449</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5811,-33.4874</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.4612,-32.5520</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5630,-33.4990</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.8781,-33.7002</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6403,-33.4492</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-72.6894,-37.4879</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5975,-33.5184</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6906,-33.4997</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6906,-33.4997</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6906,-33.4997</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7945,-33.3972</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7945,-33.3972</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2262,-29.8736</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7160,-33.5999</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7125,-33.4024</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6129,-33.4348</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6586,-33.4044</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6732,-33.5224</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5470,-33.4616</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6364,-33.4019</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.6308,-33.0426</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7423,-33.3564</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7014,-33.5654</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6511,-33.4883</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.8783,-33.7005</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6205,-33.5199</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5847,-33.4048</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.1041,-41.4226</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5606,-33.4684</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.3767,-33.0585</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6114,-33.4474</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.3416,-29.9626</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6885,-33.5282</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6227,-33.6213</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.4948,-32.9960</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.2130,-39.7952</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7648,-34.1716</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5889,-33.4140</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.4925,-33.0226</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6740,-33.3528</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2493,-29.8966</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0729,-36.8113</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.3417,-29.9626</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6723,-33.5958</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7008,-34.1465</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2577,-29.9010</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.3417,-29.9626</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7561,-33.4477</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.5248,-33.0210</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6646,-33.4166</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6227,-33.6213</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6177,-33.5141</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.9566,-33.7024</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.8353,-34.3401</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5563,-33.5608</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5626,-33.5651</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7554,-34.1932</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7420,-34.1868</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6015,-33.4630</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0788,-36.8155</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.2245,-39.8152</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.9567,-33.7023</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5626,-33.5650</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6227,-33.6213</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.4612,-32.5521</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.9566,-33.7024</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6155,-33.4256</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6906,-33.4997</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6906,-33.4997</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.8353,-34.3401</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6906,-33.4997</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6906,-33.4997</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6906,-33.4997</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6155,-33.4256</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.1425,-20.2281</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6155,-33.4256</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6155,-33.4256</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2068,-35.1581</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7224,-33.4666</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2068,-35.1581</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5633,-33.4986</coordinates></Point></Placemark>
+<Placemark><name>small_green WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7225,-33.4192</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.1432,-36.8979</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7456,-33.4343</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0788,-36.8155</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6838,-33.4192</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2674,-34.3663</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5633,-33.4986</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5627,-33.5650</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.4929,-30.1220</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6625,-33.5401</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-72.1209,-36.6197</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2262,-29.8736</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.6564,-33.1340</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.6111,-33.5952</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.8353,-34.3401</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7101,-33.4390</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5740,-33.6359</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-72.9206,-41.4609</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0887,-36.7977</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0889,-36.7977</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0889,-36.7977</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2068,-35.1581</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0889,-36.7977</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-73.0889,-36.7977</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.3261,-33.7245</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5927,-33.5682</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.3261,-33.7245</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6503,-33.4860</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.8353,-34.3401</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.3261,-33.7245</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6503,-33.4858</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5571,-33.4133</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-68.3244,-22.2764</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.1425,-20.2281</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7505,-33.4296</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2068,-35.1581</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7445,-33.5041</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5391,-33.3540</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7445,-33.5041</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.5608,-33.1325</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7069,-33.6319</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.2262,-29.8736</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.3261,-33.7245</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.8606,-36.4993</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.5927,-33.5681</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.8353,-34.3401</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.8363,-34.9714</coordinates></Point></Placemark>
+<Placemark><name>small_blue WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.5846,-33.0625</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.8330,-34.9713</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.1939,-35.1566</coordinates></Point></Placemark>
+<Placemark><name>small_yellow WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.7174,-33.6116</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.4088,-33.5783</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-71.8332,-34.9715</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+<Placemark><name>small_red WOM</name><styleUrl>#estilo_actual</styleUrl><Point><coordinates>-70.6667,-33.4500</coordinates></Point></Placemark>
+
+
+
+</Folder>
+  </Document>
+  </kml>
