@@ -58,7 +58,22 @@
 			<styleUrl>#__managed_style_2F0A654DC2324366B248</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Placemark id="0F72C285B83243665325">
+	<Placemark>
+		<name>Sala Crisol Casa Central 1</name>
+		<gx:fid>0x9662d1482410d499:0x787d18e0a541d9cd</gx:fid>
+		<styleUrl>#__managed_style_01C116C1DB324366B248</styleUrl>
+		<Point>
+			<coordinates>-33.44132062971515, -70.64024833893163,570.9733841847111</coordinates>
+		</Point>
+	</Placemark>
+		<name>Sala Crisol Casa Central 2</name>
+		<gx:fid>0x9662d1482410d499:0x787d18e0a541d9cd</gx:fid>
+		<styleUrl>#__managed_style_01C116C1DB324366B248</styleUrl>
+		<Point>
+			<coordinates>-33.44087785267009, -70.6399878886754,570.9733841847111</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
 		<name>Sala Crisol Citeduc B</name>
 		<gx:fid>0x9662d1482410d499:0x787d18e0a541d9cd</gx:fid>
 		<styleUrl>#__managed_style_01C116C1DB324366B248</styleUrl>
