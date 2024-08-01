@@ -2,30 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Salas UC</name>
-	<gx:CascadingStyle kml:id="__managed_style_2F0A654DC2324366B248">
-		<Style>
-			<IconStyle>
-				<scale>0.9</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<gx:displayMode>card</gx:displayMode>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1210827D55324366B248">
+	<gx:CascadingStyle kml:id="__managed_style_1A477E49C53244105494">
 		<Style>
 			<IconStyle>
 				<scale>0.75</scale>
@@ -48,38 +25,53 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_01C116C1DB324366B248">
+	<gx:CascadingStyle kml:id="__managed_style_27251AD7C53244105494">
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C9F34C7513244105494">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_1210827D55324366B248</styleUrl>
+			<styleUrl>#__managed_style_1A477E49C53244105494</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_2F0A654DC2324366B248</styleUrl>
+			<styleUrl>#__managed_style_27251AD7C53244105494</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Placemark>
-		<name>Sala Crisol Casa Central 1</name>
-		<gx:fid>0x9662d1482410d499:0x787d18e0a541d9cd</gx:fid>
-		<styleUrl>#__managed_style_01C116C1DB324366B248</styleUrl>
-		<Point>
-			<coordinates>-70.64024833893163,-33.44132062971515,570.9733841847111</coordinates>
-		</Point>
-	</Placemark>
-	<Placemark>
-		<name>Sala Crisol Casa Central 2</name>
-		<gx:fid>0x9662d1482410d499:0x787d18e0a541d9cd</gx:fid>
-		<styleUrl>#__managed_style_01C116C1DB324366B248</styleUrl>
-		<Point>
-			<coordinates>-70.6399878886754,-33.44087785267009,570.9733841847111</coordinates>
-		</Point>
-	</Placemark>
-	<Placemark>
+	<Placemark id="0F72C285B83243665325">
 		<name>Sala Crisol Citeduc B</name>
 		<gx:fid>0x9662d1482410d499:0x787d18e0a541d9cd</gx:fid>
-		<styleUrl>#__managed_style_01C116C1DB324366B248</styleUrl>
+		<styleUrl>#__managed_style_0C9F34C7513244105494</styleUrl>
 		<Point>
 			<coordinates>-70.61200932094029,-33.49913053462565,570.9733841847111</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00551FE35A3243F7E6F0">
+		<name>Sala Crisol Casa Central 2</name>
+		<gx:fid>0x9662c5d97b73ca13:0x552f42653fce7c12</gx:fid>
+		<styleUrl>#__managed_style_0C9F34C7513244105494</styleUrl>
+		<Point>
+			<coordinates>-70.63999536535243,-33.44090061881194,581.2601321532626</coordinates>
 		</Point>
 	</Placemark>
 </Document>
